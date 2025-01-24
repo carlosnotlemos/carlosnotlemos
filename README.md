@@ -109,7 +109,7 @@ comigo? aqui estão minhas redes sociais:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlosnotlemos&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carlosnotlemos&theme=tokyonight&layout=compact&locale=pt-br" 
   />
 
 <img 
