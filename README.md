@@ -1,9 +1,9 @@
-# 👩🏻‍💻 Carlos Henrique
+# 👨‍💻 Carlos Henrique
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Carlos Henrique, Sou de Fortaleza - Ceará. Atualmente, estou cursando Ciência de Dados no Gran Faculdade. Sou aficionado por tecnologia e sigo estudando coisas novas sempre que tenho um tempo livre. Precisa falar 
-comigo? aqui está meu Linkedin: [Carlos Henrique](www.linkedin.com/in/carlos-henrique-b33b78191).
+comigo? aqui estão minhas redes sociais:
 
 <p align="left">
     <a href="https://www.instagram.com/carlim_11">
@@ -20,7 +20,7 @@ comigo? aqui está meu Linkedin: [Carlos Henrique](www.linkedin.com/in/carlos-he
             src="https://skillicons.dev/icons?i=linkedin"
         />
     </a>
-    <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fcarlosnotlemos" >
+    <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcarlosnotlemos" >
         <img 
             alt="Perfil do GitHub" 
             title="GitHub" 
@@ -116,7 +116,7 @@ comigo? aqui está meu Linkedin: [Carlos Henrique](www.linkedin.com/in/carlos-he
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosnotlemos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=carlosnotlemos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
