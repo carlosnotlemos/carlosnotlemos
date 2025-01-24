@@ -31,7 +31,7 @@ comigo? aqui está meu Linkedin: [Carlos Henrique](www.linkedin.com/in/carlos-he
 
 ---
 
-### 🤖 Linguagens e Tecnologias (Estudando)
+### 🤖 Linguagens e Tecnologias (Aprendendo...)
 
 <img 
     align="left" 
