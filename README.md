@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Henrique, Sou de Fortaleza - Ceará. Atualmente, estou cursando Ciência de Dados no Gran Faculdade. Sou aficionado por tecnologia e sigo estudando coisas novas sempre que tenho um tempo livre. Precisa falar 
+Me chamo Carlos Henrique, Sou de Fortaleza - Ceará. Atualmente, estou cursando Ciência de Dados no Gran Faculdade. Sou aficionado por tecnologia e sigo estudando tecnologias novas sempre que tenho um tempo livre. Precisa falar 
 comigo? aqui estão minhas redes sociais:
 
 <p align="left">
